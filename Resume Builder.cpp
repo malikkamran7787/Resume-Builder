@@ -1,6 +1,3 @@
-// Kamran Sajid (150)
-// Anas Faisal(179)
-
 
 #include <iostream>
 using namespace std;
